@@ -25,7 +25,7 @@ Education
 Feb. 2026 - Present
 </td>
 <td style="border: none; vertical-align: top; padding: 8px 0;">
-nha University, Incheon, South Korea<br>
+Inha University, Incheon, South Korea<br>
 M.S. in Electrical and Computer Engineering,<a href="https://sites.google.com/view/vcl-lab/home?authuser=0"> VCL</a>
 </td>
 </tr>
