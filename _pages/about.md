@@ -25,8 +25,8 @@ Education
 Feb. 2026 - Present
 </td>
 <td style="border: none; vertical-align: top; padding: 8px 0;">
-<a href="#">Inha University</a>, Incheon, South Korea<br>
-M.S. in <a href="#">Electrical and Computer Engineering, VCL</a>
+nha University, Incheon, South Korea<br>
+M.S. in Electrical and Computer Engineering,<a href="https://sites.google.com/view/vcl-lab/home?authuser=0"> VCL</a>
 </td>
 </tr>
 
@@ -36,8 +36,8 @@ Mar. 2022 - Feb. 2026
 </td>
 
 <td style="border: none; vertical-align: top; padding: 8px 0;">
-<a href="#">Inha University</a>, Incheon, South Korea<br>
-B.S. in <a href="#">Software Convergence Engineering</a>
+Inha University, Incheon, South Korea<br>
+B.S. in Software Convergence Engineering
 </td>
 </tr>
 
