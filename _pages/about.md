@@ -19,7 +19,7 @@ I'm currently conducting research on 3D Gaussian Splatting.
 Education
 ------
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; font-size: 1em;">
 <tr style="border: none;">
 <td style="border: none; vertical-align: top; padding: 8px 16px 8px 0;">
 Feb. 2026 - Present
