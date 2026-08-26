@@ -42,3 +42,35 @@ B.S. in Software Convergence Engineering
 </tr>
 
 </table>
+
+
+Experiences
+------
+
+<table style="border: none; border-collapse: collapse; font-size: 1em;">
+
+<tr style="border: none;">
+
+<td style="border: none; vertical-align: top; padding: 8px 16px 8px 0;">
+Jan. 2026 - Feb. 2026
+</td>
+<td style="border: none; vertical-align: top; padding: 8px 0;">
+Electronics and Telecommunications Research Institute(ETRI), Daejeon, South Korea<br>
+Research Intern
+</td>
+
+</tr>
+
+<tr style="border: none;">
+
+<td style="border: none; vertical-align: top; padding: 8px 16px 8px 0;">
+Jul. 2025 - Feb. 2026
+</td>
+<td style="border: none; vertical-align: top; padding: 8px 0;">
+Inha University VCL Lab, Incheon, South Korea<br>
+Undergraduate Research Intern
+</td>
+
+</tr>
+
+</table>
