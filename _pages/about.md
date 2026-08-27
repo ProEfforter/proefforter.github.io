@@ -37,7 +37,7 @@ Mar. 2022 - Feb. 2026
 
 <td style="border: none; vertical-align: top; padding: 8px 0;">
 Inha University, Incheon, South Korea<br>
-B.S. in Software Convergence Engineering
+B.S. in Software Convergence Engineering <b>(Cum Laude)</b>
 </td>
 </tr>
 
@@ -86,8 +86,8 @@ Publications
 </td>
 <td style="border: none; vertical-align: top; padding: 8px 0;">
 Enhancing face recognition via additional facial attributes<br>
-<b>J. Shin</b>, M. Kim, S. Park<br>
-<i>Multimedia Systems</i>, 32(4), 320
+<b>J.G Shin</b>, M.S Kim, S.B Park<br>
+<i>Multimedia Systems</i>, 32(4), 320 (Impact factor 2.8)
 </td>
 
 </tr>
@@ -100,7 +100,7 @@ Enhancing face recognition via additional facial attributes<br>
 <td style="border: none; vertical-align: top; padding: 8px 0;">
 Improving Character Recognition by Using Metadata on Personal Attributes<br>
 <b>J. G. Shin</b>, M. S. Kim, S. B. Park<br>
-<i>Journal of The Korea Society of Computer and Information</i>
+<i>Journal of The Korea Society of Computer and Information (JKSCI)</i>
 </td>
 
 </tr>
@@ -113,7 +113,7 @@ Improving Character Recognition by Using Metadata on Personal Attributes<br>
 <td style="border: none; vertical-align: top; padding: 8px 0;">
 Development and Application of SW·AI Education Program for Digital Sprout Camp<br>
 J. H. Kim, <b>J. G. Shin</b>, S. B. Park<br>
-<i>Journal of The Korea Society of Computer and Information</i>
+<i>Journal of The Korea Society of Computer and Information (JKSCI)</i>
 </td>
 
 </tr>
