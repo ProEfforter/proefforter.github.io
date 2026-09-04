@@ -37,7 +37,7 @@ Mar. 2022 - Feb. 2026
 
 <td style="border: none; vertical-align: top; padding: 8px 0;">
 Inha University, Incheon, South Korea<br>
-B.S. in Software Convergence Engineering <b>(Cum Laude)</b>
+B.S. in Software Convergence Engineering <b>(Summa Cum Laude)</b>
 </td>
 </tr>
 
